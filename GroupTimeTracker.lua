@@ -1,7 +1,12 @@
 
 --[[
-    Time tracker system, this system includes tracking of playtime of our specific roles of our roblox community playing a game and 
-can be viewed and reset every week while the report is sended to discord to keep record. This can be used to keep record of game staff and their activity!
+Discord Username: evilmafia111
+Roblox Username: Missweirdo52
+--]]
+
+--[[
+Time tracker system, this system includes tracking of playtime of our specific roles of our roblox community playing a game and 
+can be viewed and reset every week while the report is sended to discord to keep record. This can be used to keep record of game staff and their activity.
 --]]
 
 
